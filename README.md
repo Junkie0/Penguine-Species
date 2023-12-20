@@ -66,4 +66,4 @@ Analysis Steps
 
 This analysis is inspired by the desire to explore patterns within penguin species using clustering techniques. Dataset credits to the original source.
 
-Feel free to explore, modify, and enhance the analysis based on your requirements!
+Please, Feel free to explore, modify, and enhance the analysis based on your requirements!
